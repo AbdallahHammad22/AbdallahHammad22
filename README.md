@@ -1,5 +1,5 @@
-# 💫 About Me:
-My Name is Abdallah Hammad<br>Mobile Developer || Flutter developer<br>Bachelor's degree in Computer Science<br>I am now learning to improve the performance of my software,<br>by learning different architectures and looking at courses that teach clean and flexible code.<br>I would like to accomplish this matter as soon as possible so that I will be able to participate in developing and building large software projects.
+# 💫 My name is Abdallah Hammad
+Mobile Developer || Flutter developer<br>Bachelor's degree in Computer Science<br>I am now learning to improve the performance of my software,<br>by learning different architectures and looking at courses that teach clean and flexible code.<br>I would like to accomplish this matter as soon as possible so that I will be able to participate in developing and building large software projects.
 
 
 ## 🌐 Socials:
