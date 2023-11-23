@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdallah Hammad
+# Hi 🥰 I'm Abdallah Hammad
 ![xxxx](https://github.com/AbdallahHammad22/AbdallahHammad22/assets/108339831/a0c8f4e0-1f6c-4d56-9233-e691678a4e41)
 # <img width="41" alt="zzzzz" src="https://github.com/AbdallahHammad22/AbdallahHammad22/assets/108339831/1ed8a97b-69ee-4151-94e5-e3e7fde41c44"> More about me
 <br>Mobile Developer || Flutter developer<br>Bachelor's degree in Computer Science<br>I am now learning to improve the performance of my software,<br>by learning different architectures and looking at courses that teach clean and flexible code.<br>I would like to accomplish this matter as soon as possible so that I will be able to participate in developing and building large software projects.
